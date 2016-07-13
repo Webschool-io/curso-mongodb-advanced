@@ -2,4 +2,8 @@
 
 Curso de MongoDB avançado da Webschool
 
-## Primeiro Módulo - Queries
+**professor:** [pablojuancruz](https://github.com/pablojuancruz)
+
+## Primeiro Módulo - Queries 
+
+- Início: 25/JULHO/2016
