@@ -6,4 +6,4 @@ Curso de MongoDB avançado da Webschool
 
 ## Primeiro Módulo - Queries 
 
-- Início: 25/JULHO/2016
+- Início: 05/SETEMBRO/2016
